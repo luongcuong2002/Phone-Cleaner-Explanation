@@ -10,7 +10,13 @@
 - Others will invoke them in Flutter through Method Channels and use the data provided by these functions to display the UI.
 - See, [writing custom platform-specific code](https://docs.flutter.dev/platform-integration/platform-channels).
 ## What I have done
-- _I have made numerous features in this project, and here are some of them._
+- I have made a lot of features in this project such as:
+  - Detect similar photos, low quality photos.
+  - Get media thumbnails.
+  - Get media files on the device.
+  - Get apps size, apps cache, app data usage.
+  - etc.
+- And bellow are some of them:
 
 ---
 #### Detect similar photos
